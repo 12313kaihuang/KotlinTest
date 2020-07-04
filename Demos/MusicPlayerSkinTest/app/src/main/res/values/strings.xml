@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MusicPlayerSkinTest</string>
+    <string name="username">username</string>
+    <string name="login">Login</string>
 </resources>
