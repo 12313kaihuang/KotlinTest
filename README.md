@@ -5,5 +5,5 @@ Some notes and demos for Kotlin study
 
 structure
 --------------------
-* [notes on IDEA](/KotlinStudy)
-* [demos](/Demos)
+* [Notes on IDEA](/KotlinStudy)
+* [Demos](/Demos)
