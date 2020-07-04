@@ -1,4 +1,5 @@
-#MusicPlayerSkinTest
+# MusicPlayerSkinTest
+极客时间[`Kotlin`课程](https://time.geekbang.org/course/detail/100009801-10674)第一章小测试。
 
 Target
 ---------------------
@@ -8,10 +9,10 @@ Target
 
 Description
 ---------------------
-简单实现了不同角色登录显示不同皮肤，VIP用户可以定义颜色。
+简单实现了不同角色登录显示不同皮肤，**VIP用户**可以自定制颜色。
 `SkinManager`中默认定义了**Tom**、**Bob**和**Marry**三个角色，登录有不同颜色的皮肤，其余输入默认红色。
 
 Points
----------------
+---------------------
 * [类定义、函数重载](app/src/main/java/com/yu/hu/musicplayerskintest/skin/PlayerSkin.kt)
 * [密闭类](app/src/main/java/com/yu/hu/musicplayerskintest/skin/PlayerViewType.kt)
