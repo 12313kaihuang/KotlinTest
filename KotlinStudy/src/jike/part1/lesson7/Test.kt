@@ -1,4 +1,4 @@
-package jike.lesson7
+package jike.part1.lesson7
 
 /**
  *@author Hy
